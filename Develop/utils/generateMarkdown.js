@@ -1,8 +1,9 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
+  
   if(license) {
-    return `![GitHub License](https://img.shields.io/badge/license-${license}-blue.svg)`
+    return `![Packagist License](https://img.shields.io/badge/license-${license}-blue.svg)`
   } else {
     return '';
   }
@@ -32,12 +33,15 @@ ${renderLicenseBadge(data.license)}
 4. [Usage](#usage)
 5. [Collaborators](#credits)
 6. [License](#license)
+7. [Github username](#github)
 
 ##  Project Description: ${data.description}
 ##  Installation guide: ${data.installation_instruction}
 ## Usability: ${data.usage}
+## Collaborations:[${data.credits}]
+## Questions: [http://www.github.com/${data.github}] 
+              contact:[${data.email}]
 
-[Collaborators](http://www.github.com/${data.credits})
 ![Test Image](${data.link})
 `;
 }

@@ -1,14 +1,23 @@
-# PS
+# We We
 
-![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Packagist License](https://img.shields.io/badge/license--blue.svg)
 
-##  Project Description: testing functionality
-### Key Features: no
+# Project Title: We We
 
 ## Table of Contents
-1. [Installiation Instructions](#install_instructions)
-2. [Key Features](#no)
-3. [Item 3](#item_3)
+1. [Project Title](#title)
+2. [Project Description](#description) 
+3. [Installation Guide](#installation_instruction)
+4. [Usage](#usage)
+5. [Collaborators](#credits)
+6. [License](#license)
+7. [Github username](#github)
 
-[Collaborators](http://www.github.com/bingo)
+##  Project Description: My my
+##  Installation guide: see run
+## Usability: our own
+## Collaborations:[giz]
+## Questions: [http://www.github.com/isaacakanbi] 
+              contact:[isaac.akanbi@hotmail.co.uk]
+
 ![Test Image](undefined)

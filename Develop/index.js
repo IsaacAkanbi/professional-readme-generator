@@ -39,10 +39,21 @@ const questions = [
         message: 'Itemize specific features of your project',
     },
     {
-        type: 'input',
-        name: 'license',
+        type: 'checkbox',
         message: 'What license is your project under?',
-    },
+        name: 'license',
+        choices: ['Packagist', 'APM', 'Bower', 'GitHub'],
+      },
+      {
+        type: 'input',
+        message: 'What is your github username?',
+        name: 'github',
+      },
+      {
+        type: 'input',
+        message: 'What email address?',
+        name: 'email',
+      },
 ];
 
 // TODO: Create a function to write README file
