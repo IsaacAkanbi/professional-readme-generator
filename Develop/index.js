@@ -42,7 +42,7 @@ const questions = [
         type: 'checkbox',
         message: 'What license is your project under?',
         name: 'license',
-        choices: ['Packagist', 'APM', 'Bower', 'GitHub'],
+        choices: ['MIT', 'Apache', 'BSD', 'GPL'],
       },
       {
         type: 'input',
@@ -65,13 +65,6 @@ function init() {
         writeToFile('README.md', generateMarkdown(response), (err) => err? console.error(err): console.log('successfully saved to README.md!'));
     })
 }
-// function writeToFile(getReadme, JSON.stringify(data, null, '\t')); 
-// {}
-
-// getReadme('webtorrent', function (err, readme) {
-//     if (err) throw err
-//     console.log(readme)
-//   })
 // TODO: Create a function to initialize app
 // function init () {
 //     inquirer.prompt(questions)
