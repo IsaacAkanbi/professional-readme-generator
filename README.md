@@ -25,7 +25,9 @@ Once completed, refresh and open the README.md file ./Develop/README.md
 Also right-click on the file and select preview
 
 # Links 
+https://github.com/IsaacAkanbi/professional-readme-generator
 
+https://isaacakanbi.github.io/professional-readme-generator/ 
 
 # Images
 C:\Users\isaac\professional-readme-generator\Develop\assets\readme page.PNG

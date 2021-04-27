@@ -1,7 +1,7 @@
 
 [![badge](https://img.shields.io/badge/license-MIT,BSD-green)](https://img.shields.io/badge/license-MIT,BSD-green)
 
-# Project Title: Spelling Bee
+# Project Title: Sports-Reel solution
 
 ## Table of Contents
 1. [Project Title](#project-title-)
@@ -13,20 +13,20 @@
 7. [Github username](#questions-)
 
 ### Project Description:
-DGRHHNNN
+ServiceNow based solution that interact with users
 
 ### Installation guide: 
-SEDFGH FgbN
+Heroku service now, Asure 
 
 ### Usability:
-SWN 
+enter, click, scroll
 
 ### Collaborations: 
-DFT NJ
+FG, NMg. GHtlb
 
 ### License: 
 MIT,BSD
 
 ### Questions: 
-- [github link](http://www.github.com/isaacbg) 
-- Contact email: (isadv@gmail.com)
+- [github link](http://www.github.com/isaacakanbi) 
+- Contact email: (isaac.akanbi@gmail.com)
