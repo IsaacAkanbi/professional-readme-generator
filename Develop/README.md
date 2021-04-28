@@ -1,7 +1,7 @@
 
-[![badge](https://img.shields.io/badge/license-MIT,BSD-green)](https://img.shields.io/badge/license-MIT,BSD-green)
+[![badge](https://img.shields.io/badge/license-Apache,BSD-green)](https://img.shields.io/badge/license-Apache,BSD-green)
 
-# Project Title: Sports-Reel solution
+# Project Title: Sports-manner
 
 ## Table of Contents
 1. [Project Title](#project-title-)
@@ -13,20 +13,20 @@
 7. [Github username](#questions-)
 
 ### Project Description:
-ServiceNow based solution that interact with users
+Our pride
 
 ### Installation guide: 
-Heroku service now, Asure 
+click run mapp
 
 ### Usability:
-enter, click, scroll
+CG GTfgh
 
 ### Collaborations: 
-FG, NMg. GHtlb
+we we
 
 ### License: 
-MIT,BSD
+Apache,BSD
 
 ### Questions: 
-- [github link](http://www.github.com/isaacakanbi) 
-- Contact email: (isaac.akanbi@gmail.com)
+- [github link](http://www.github.com/isaacA) 
+- Contact email: (efg@gmail.com)
